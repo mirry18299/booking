@@ -8,7 +8,7 @@ const PropertyList = () => {
             <img src="hotel.webp" className="pListImg" />
             <div className="pListTitles">
               <h1>Hotels</h1>
-              <h1>233 hotels</h1>
+              <h2>233 hotels</h2>
             </div>
         </div>
 
@@ -17,7 +17,7 @@ const PropertyList = () => {
             <img src="Apartmnts.jfif" className="pListImg" />
             <div className="pListTitles">
               <h1>Apartments</h1>
-              <h1>2331 Apartments</h1>
+              <h2>2331 Apartments</h2>
             </div>
         </div>
 
@@ -27,7 +27,7 @@ const PropertyList = () => {
             <img src="resort.jfif" className="pListImg" />
             <div className="pListTitles">
               <h1>Resorts</h1>
-              <h1>233 hotels</h1>
+              <h2>233 hotels</h2>
             </div>
             </div>
 
@@ -35,7 +35,7 @@ const PropertyList = () => {
             <img src="villa.jfif" className="pListImg" />
             <div className="pListTitles">
               <h1>Villas</h1>
-              <h1>2331 hotels</h1>
+              <h2>2331 hotels</h2>
             </div>
         </div>
 
@@ -44,7 +44,7 @@ const PropertyList = () => {
             <img src="cabin.jfif" className="pListImg" />
             <div className="pListTitles">
               <h1>Cabins</h1>
-              <h1>2331 hotel</h1>
+              <h2>2331 hotel</h2>
             </div>
         </div>
 

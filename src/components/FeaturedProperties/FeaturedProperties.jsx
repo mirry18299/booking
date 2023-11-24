@@ -5,7 +5,7 @@ const FeaturedProperties = () => {
     return (
     <div className="fp">
         <div className="fpItem">
-        <img src="hotel stare.jfif"></img>
+        <img src="hotel stare.jfif" className="fpImg"/>
         <span className="fpName">Aparthotel Stare Miasto</span>
         <span className="fpCity">Madrid</span>
         <span className="fpPrice">Starting from $120</span>
@@ -17,7 +17,7 @@ const FeaturedProperties = () => {
     </div>
 
     <div className="fpItem">
-        <img src="hotel stare.jfif"></img>
+        <img src="hotel stare.jfif" className="fpImg"/>
         <span className="fpName">Aparthotel Stare Miasto</span>
         <span className="fpCity">Madrid</span>
         <span className="fpPrice">Starting from $120</span>
@@ -29,7 +29,7 @@ const FeaturedProperties = () => {
     </div>
 
     <div className="fpItem">
-        <img src="hotel stare.jfif"></img>
+        <img src="hotel stare.jfif" className="fpImg"/>
         <span className="fpName">Aparthotel Stare Miasto</span>
         <span className="fpCity">Madrid</span>
         <span className="fpPrice">Starting from $120</span>
@@ -39,9 +39,10 @@ const FeaturedProperties = () => {
 
         </div>
     </div>
+    
 
     <div className="fpItem">
-        <img src="hotel stare.jfif"></img>
+        <img src="hotel stare.jfif" className="fpImg"/>
         <span className="fpName">Aparthotel Stare Miasto</span>
         <span className="fpCity">Madrid</span>
         <span className="fpPrice">Starting from $120</span>
