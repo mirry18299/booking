@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";*/
 import "./list.css"
 import Navbar from "../../components/navbar/Navbar";
 import Header from "../../components/header/Header";
@@ -15,7 +15,7 @@ const List = () => {
     const [options, setOptions] = useState(location.state.options)
     return (
     <div>
-        <Navbar/>
+        <Navbar />
         <Header type="list"/>
         <div className="listContainer">
             <div className="listWrapper">

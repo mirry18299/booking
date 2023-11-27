@@ -1,7 +1,7 @@
 import React from "react";
 import "./home.css"
-import Navbar from "../../components/Navbar/Navbar"
-import Header from "../../components/Header/Header"
+import Navbar from "../../components/navbar/Navbar"
+import Header from "../../components/header/Header"
 import Featured from "../../components/Featured/Featured";
 import PropertyList from "../../components/PropertyList/PropertyList";
 import FeaturedProperties from "../../components/FeaturedProperties/FeaturedProperties";
