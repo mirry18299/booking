@@ -1,12 +1,11 @@
-import React from "react";
 import "./home.css"
 import Navbar from "../../components/navbar/Navbar"
 import Header from "../../components/header/Header"
-import Featured from "../../components/Featured/Featured";
-import PropertyList from "../../components/PropertyList/PropertyList";
-import FeaturedProperties from "../../components/FeaturedProperties/FeaturedProperties";
-import MailList from "../../components/MailList/MailList";
-import Footer from "../../components/Footer/Footer";
+import Featured from "../../components/featured/Featured";
+import PropertyList from "../../components/propertyList/PropertyList";
+import FeaturedProperties from "../../components/featuredProperties/FeaturedProperties";
+import MailList from "../../components/mailList/MailList";
+import Footer from "../../components/footer/Footer"
 
 const Home = () => {
     return (
