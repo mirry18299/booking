@@ -1,5 +1,4 @@
 
-
 import "./searchItem.css";
 
 const SearchItem = () => {
