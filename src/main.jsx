@@ -8,13 +8,28 @@ const routes =createBrowserRouter([
   {
     path: '/',
     element: <App/>
+  },
+  // {
+  //   path: "/home", 
+  //   element:<Home/>
+  // },
+  // {
+  //   path:"/list",
+  //   element:<List/>
+  // },
+  // {
+  //   path:"/hotels/:id",
+  //   element:<Hotel/>
+  // },
+  // {
+  //   path:"/login",
+  //   element:<Login/>
+  // }
 
-
-  }
 ])
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={routes} />
+    <RouterProvider  router={routes} />
   </React.StrictMode>,
 )
 
